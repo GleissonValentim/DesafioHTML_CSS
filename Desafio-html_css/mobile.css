@@ -1,0 +1,168 @@
+.inicio, .popular, .container_students, .certified, footer, .courses {
+    padding: 0;
+}
+
+/* header */
+header {
+    flex-flow: column wrap;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
+header nav {
+    margin-bottom: 20px;
+}
+
+/* Skills */
+.skills {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.skills_buttons {
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.info h1 {
+    font-size: 36px;
+}
+
+.img_fundo {
+    margin: 0 auto;
+}
+
+/* Marcas */
+.marcas {
+    flex-flow: column wrap;
+}
+
+.marcas img {
+    margin: 20px 0;
+}
+
+/* Cursos */
+.courses {
+    padding: 50px 0;
+}
+
+.courses_pesquisa {
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+.input_course {
+    margin: 0 10px;
+}
+
+.courses_pesquisa input {
+    width: 100%;
+}
+
+.button_search {
+    margin: 0 10px;
+    margin-top: 20px;
+}
+
+.online_courses {
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.part_course {
+    margin: 20px;
+} 
+
+.part_course h2 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.img_course {
+    margin-right: 15px;
+} 
+
+/* popular */
+.popular, .container_students {
+    padding: 40px 0;
+}
+
+.popular_courses {
+    flex-flow: column wrap;
+    justify-content: center;
+}
+
+.popular_course {
+    margin: 20px 40px;
+}
+
+/* certified */
+.certified {
+    padding: 40px 40px;
+}
+
+.certified img {
+    margin: 0 auto;
+}
+
+.segunda_lista {
+    margin: 0;
+}
+
+.instructor button {
+    margin: 40px auto;
+}
+
+/* students */
+.container_student {
+    justify-content: center;
+}
+
+.student {
+    margin: 20px;
+    margin-top: 0;
+}
+
+/* Subscribe */
+.subscribe_container {
+    border-radius: 0;
+}
+
+.subscribe_info {
+    margin: 40px 20px;
+}
+
+.subscribe_info button {
+    margin-top: 20px;
+    padding: 10px 25px;
+}
+
+/* footer */
+footer {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.final {
+    flex-flow: column wrap;
+    align-items: center;
+}
+
+.info_footer {
+    margin-bottom: 20px;
+}
+
+.redes_sociais {
+    display: flex;
+    justify-content: center;
+}
+
+.redes_sociais img {
+    margin: 0 5px;
+}
+
+.final h3, .final li, .final h1 {
+    text-align: center;
+}
